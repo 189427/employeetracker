@@ -16,8 +16,15 @@ An app that allows for an employer to view, add, delete, their employees using m
 
 Contributions are always welcome!
 
+Github repository: https://github.com/189427/employeetracker
+
 Please contact me for more information:
 
 Github username: 189427
 
 Github Profile: https://github.com/189427
+
+Note: Code migrated from joint project repo:
+https://github.com/haydenburger43/employee-tracker
+
+made alongside Hayden C
